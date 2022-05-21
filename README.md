@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Abdulshakur</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on [Space Tourism](https://github.com/Abdulshakur24/space-tourism)
+- 💤 Currently idling.
 
 - 📫 How to reach me **ashakur.js24@gmail.com**
 
