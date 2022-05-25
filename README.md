@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Abdulshakur</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate PERN/MERN Stack developer from Kenya</h3>
 
 - 💤 Currently idling.
 
