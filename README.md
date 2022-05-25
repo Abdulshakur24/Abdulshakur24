@@ -1,21 +1,4 @@
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <style>
-      * {
-        padding: 0;
-        margin: 0;
-      }
-      a {
-        text-decoration: none;
-      }
-    </style>
-  </head>
-  <body>
-    <h1 align="center">Hi 👋, I am Abdulshakur</h1>
+   <h1 align="center">Hi 👋, I am Abdulshakur</h1>
     <h3 align="center">A passionate PERN/MERN Stack developer from Kenya</h3>
 
     - 💤 Currently idling. - 📫 How to reach me **ashakur.js24@gmail.com**
@@ -120,5 +103,3 @@
       </a>
       <a href="https://mantine.dev/" target="_blank" rel="noreferrer"> </a>
     </p>
-  </body>
-</html>
