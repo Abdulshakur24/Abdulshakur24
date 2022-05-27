@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Abdulshakur</h1>
-<h3 align="center">A passionate PERN/MERN Stack developer from Kenya</h3>
+<h3 align="center">A passionate self-taught PERN/MERN Stack developer from Kenya</h3>
 
 - 💤 Currently idling.
 
@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a style="text-decoration: none; margin: 0.5rem" href="https://twitter.com/Ashakur_js24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashakur" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/abdulshakur_24" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/apple-touch-icon-152x152-precomposed-refresh.png/a2c0c3c558c0.png" alt="ashakur" height="30" width="40" /></a>
+<a style="text-decoration: none; margin: 0.5rem" href="https://twitter.com/Ashakur_js24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashakur" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/abdulshakur_24" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/apple-touch-icon-152x152-precomposed-refresh.png/a2c0c3c558c0.png" alt="ashakur" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,18 +57,17 @@
       height="40"
     />
   </a>
+    <a style="text-decoration: none; margin: 0.5rem" href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+      alt="mongodb"
+      height="40"
+    />
+  </a>
   <a style="text-decoration: none; margin: 0.5rem" href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a style="text-decoration: none; margin: 0.5rem" href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
       width="40"
       height="40"
     />
