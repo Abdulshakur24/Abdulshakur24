@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I am Abdulshakur</h1>
 <h3 align="center">A passionate self-taught PERN/MERN Stack developer.</h3>
 
-- 💤 Currently idling.
+- 📚 Currently studying.
 
 - 📫 How to reach me **ashakur.js24@gmail.com**
 
