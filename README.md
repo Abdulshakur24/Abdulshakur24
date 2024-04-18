@@ -1,91 +1,26 @@
-<h1 align="start">Hi 👋, I am Abdulshakur</h1>
-<h3 align="center">A passionate self-taught PERN/MERN Stack developer.</h3>
+# Hi, I'm Abdulshakur 👋
 
-- 📚 Currently studying.
+## 🚀 About Me
+I'm a passionate, self-taught **Full Stack Developer** specializing in the PERN and MERN stacks. My journey in web development is driven by my curiosity and determination to build impactful, user-centric solutions.
 
-- 📫 How to reach me **ashakur.js24@gmail.com**
+## 🌱 I’m currently learning...
+Continuously expanding my knowledge and skills in web development, with a focus on advanced React patterns, Node.js optimizations, and exploring new web technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a style="text-decoration: none; margin: 0.5rem" href="https://twitter.com/Ashakur_js24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashakur" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/abdulshakur_24" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/apple-touch-icon-152x152-precomposed-refresh.png/a2c0c3c558c0.png" alt="ashakur" height="30" width="30" /></a>
-</p>
+## 📫 How to Reach Me
+Feel free to reach out for collaborations or just to say hi, I'll be happy to connect:
+- Email: **ashakur.js24@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a style="text-decoration: none; margin: 0.5rem" href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a style="text-decoration: none; margin: 0.5rem"
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a style="text-decoration: none; margin: 0.5rem" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a style="text-decoration: none; margin: 0.5rem" href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a style="text-decoration: none; margin: 0.5rem" href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a style="text-decoration: none; margin: 0.5rem" href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
-      alt="mongodb"
-      height="40"
-    />
-  </a>
-  <a style="text-decoration: none; margin: 0.5rem" href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a style="text-decoration: none; margin: 0.5rem" href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a style="text-decoration: none; margin: 0.5rem" href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
-      alt="mui"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+## 🤝 Connect with Me
+[![Twitter](https://img.shields.io/twitter/follow/Ashakur_js24?style=social)](https://twitter.com/Ashakur_js24)
+[![Instagram](https://img.shields.io/badge/-abdulshakur_24-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abdulshakur_24)
+
+## 💻 Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
