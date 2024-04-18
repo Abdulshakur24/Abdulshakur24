@@ -12,7 +12,7 @@ Feel free to reach out for collaborations or just to say hi, I'll be happy to co
 
 ## 🤝 Connect with Me
 [![Twitter](https://img.shields.io/twitter/follow/Ashakur_js24?style=social)](https://twitter.com/Ashakur_js24)
-[![Instagram](https://img.shields.io/badge/-abdulshakur_24-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abdulshakur_24)
+[![Instagram](https://img.shields.io/badge/-abdulshakur_24-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__ashakur__/)
 
 ## 💻 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
