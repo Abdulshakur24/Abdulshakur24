@@ -1,9 +1,9 @@
 # Hi, I'm Abdulshakur 👋
 
 ## 🚀 About Me
-I'm a passionate, self-taught **Full Stack Developer** specializing in the PERN and MERN stacks. My journey in web development is driven by my curiosity and determination to build impactful, user-centric solutions.
+I'm a passionate, self-taught Full-Stack Developer specializing in the PERN and MERN stacks.  I'm driven to build scalable web applications and love tackling the challenges of creating user-friendly experiences.  Recently, I've been diving into advanced React patterns and Node.js optimizations.
 
-## 🌱 I’m currently learning...
+## 📚 I’m currently studying BCS at Riara University...
 Continuously expanding my knowledge and skills in web development, with a focus on advanced React patterns, Node.js optimizations, and exploring new web technologies.
 
 ## 📫 How to Reach Me
@@ -12,7 +12,6 @@ Feel free to reach out for collaborations or just to say hi, I'll be happy to co
 
 ## 🤝 Connect with Me
 [![Twitter](https://img.shields.io/twitter/follow/Ashakur_js24?style=social)](https://twitter.com/Ashakur_js24)
-[![Instagram](https://img.shields.io/badge/-abdulshakur_24-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__ashakur__/)
 
 ## 💻 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
