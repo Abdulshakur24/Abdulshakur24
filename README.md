@@ -1,7 +1,7 @@
 # Hi, I'm Abdulshakur 👋
 
 ## 🚀 About Me
-I'm a passionate, self-taught Full-Stack Developer specializing in the PERN and MERN stacks.  I'm driven to build scalable web applications and love tackling the challenges of creating user-friendly experiences.  Recently, I've been diving into advanced React patterns and Node.js optimizations.
+I'm a passionate, self-taught Full-Stack Developer specializing in the PERN/MERN stacks.  I'm driven to build scalable web applications and love tackling the challenges of creating user-friendly experiences.  Recently, I've been diving into advanced React patterns and Node.js optimizations.
 
 ## 📚 I’m currently studying BCS at Riara University...
 Continuously expanding my knowledge and skills in web development, with a focus on advanced React patterns, Node.js optimizations, and exploring new web technologies.
