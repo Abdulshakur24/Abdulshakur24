@@ -1,7 +1,7 @@
 # Hi, I'm Abdulshakur 👋
 
 ## 🚀 About Me
-I'm a passionate, self-taught Full-Stack Developer specializing in the PERN/MERN stacks.  I'm driven to build scalable web applications and love tackling the challenges of creating user-friendly experiences.  Recently, I've been diving into advanced React patterns and Node.
+I'm a passionate, self-taught Full-Stack Developer specializing in the PERN/MERN stacks.  I'm driven to build scalable web applications and love tackling the challenges of creating user-friendly experiences.
 
 ## 📫 How to Reach Me
 Feel free to reach out for collaborations or just to say hi, I'll be happy to connect:
