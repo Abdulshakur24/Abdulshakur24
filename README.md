@@ -1,13 +1,13 @@
-# Hi, I'm Abdulshakur 👋
+# Hi, I'm Abdulshakur 
 
-## 🚀 About Me
+## About Me
 I'm a passionate, self-taught Full-Stack Developer specializing in the PERN/MERN stacks.  I'm driven to build scalable web applications and love tackling the challenges of creating user-friendly experiences.
 
-## 📫 How to Reach Me
+## How to Reach Me
 Feel free to reach out for collaborations or just to say hi, I'll be happy to connect:
 - Email: **ashakur.js24@gmail.com**
 
-## 🤝 Connect with Me
+## Connect with Me
 [![Twitter](https://img.shields.io/twitter/follow/Ashakur_js24?style=social)](https://twitter.com/Ashakur_js24)
 
 ## 💻 Languages and Tools
