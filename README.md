@@ -10,7 +10,7 @@ Feel free to reach out for collaborations or just to say hi, I'll be happy to co
 ## Connect with Me
 [![Twitter](https://img.shields.io/twitter/follow/Ashakur_js24?style=social)](https://twitter.com/Ashakur_js24)
 
-## 💻 Languages and Tools
+## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
