@@ -6,6 +6,7 @@ I'm a passionate, self-taught Full-Stack Developer specializing in the PERN/MERN
 ## How to Reach Me
 Feel free to reach out for collaborations or just to say hi, I'll be happy to connect:
 - Email: **ashakur.js24@gmail.com**
+- Phone no.: **+254 707049885**
 
 ## Connect with Me
 [![Twitter](https://img.shields.io/twitter/follow/Ashakur_js24?style=social)](https://twitter.com/Ashakur_js24)
